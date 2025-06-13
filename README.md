@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 I'm Berke
 
-<!--
-**berkefiratto/berkefiratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with 3+ years of experience in enterprise Java & Big Data projects.  
+Currently building mobile-first, content-driven platforms and clean, component-based architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Skills
+- **Backend**: Java, Spring Boot, REST APIs, Kafka, SQL
+- **Frontend**: React, Ionic, Angular, TypeScript
+- **Dev Tools**: Firebase, Git, Postman, Swagger
+
+---
+
+## 🚀 Featured Projects
+- [PillowTalks](https://github.com/berkefiratto/pillowtalks-app) – Mobile-first content platform
+- [Java API Skeleton](https://github.com/berkefiratto/java-api-skeleton) – Enterprise REST API
+- [Spring Kafka Consumer](https://github.com/berkefiratto/spring-kafka-consumer) – Realtime stream handler
+- [Firebase Auth Demo](https://github.com/berkefiratto/firebase-auth-demo) – Auth UI with React
+- [Ionic Angular UI](https://github.com/berkefiratto/ionic-angular-sample-ui) – Mobile-friendly component UI
+
+---
+
+## 📫 Let's Connect
+[LinkedIn →](https://www.linkedin.com/in/berkefiratyildirim/)
