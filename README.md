@@ -1,6 +1,6 @@
 # 👋 I'm Berke
 
-Full-stack developer with 3+ years of experience in enterprise Java & Big Data projects.  
+Full-stack developer with 5+ years of experience in enterprise Java & Big Data projects.  
 Currently building mobile-first, content-driven platforms and clean, component-based architectures.
 
 ---
