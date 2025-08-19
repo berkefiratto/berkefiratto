@@ -6,9 +6,10 @@ Currently building mobile-first, content-driven platforms and clean, component-b
 ---
 
 ## 💼 Core Skills
-- **Backend**: Java, Spring Boot, REST APIs, Kafka, SQL
-- **Frontend**: React, Ionic, Angular, TypeScript
-- **Dev Tools**: Firebase, Git, Postman, Swagger
+- **Backend**  : Java, Spring Boot, REST APIs, Kafka, SQL
+- **Frontend** : React, Ionic, Angular, TypeScript
+- **DB**       : PostgreSQL/plSql, MySQL, MsSQL, Firebase, SQLite
+- **Dev Tools**: Git, Postman, Swagger ...
 
 ---
 
